@@ -27,10 +27,13 @@ I speak Russian (native) and English (B2).
 I graduated from Moscow Aviation Institute (National Research University) at 2012. 
 I received the specialist degree in "Computers, complexes, systems and networks".
 
-Below are the projects I have worked on as a student during the 'Java Test Automation' course at <a href="https://qa.guru">QA.GURU</a>:
+Below are the projects I have worked on as a student during the 'Java Test Automation' course at <a href="https://qa.guru">QA.GURU</a>, and the certificate of completion:
 * <a href="https://github.com/ivanov-ev/demo-vacancy-tests">UI tests</a>
 * <a href="https://github.com/ivanov-ev/fakestoreapi-rest-api-tests">REST API tests</a>
 * <a href="https://github.com/ivanov-ev/mobile-automation-basics-real-device-and-emulator">Mobile (Android) tests</a>
+
+<img src="./images/certificates/Ivanov Evgenii.png" alt="QA GURU Certificate of Completion"/>
+
 
 ---
 
